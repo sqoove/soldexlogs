@@ -29,7 +29,7 @@
 Clone the repository and install the dependencies (Python 3.10+ recommended):
 
 ```bash
-git clone https://github.com/neoslabx/soldexlogs.git
+git clone https://github.com/sqoove/soldexlogs.git
 cd soldexlogs
 pip install -r requirements.txt
 ````
